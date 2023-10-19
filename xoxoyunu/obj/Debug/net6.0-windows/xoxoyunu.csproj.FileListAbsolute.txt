@@ -1,0 +1,16 @@
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\bin\Debug\net6.0-windows\xoxoyunu.exe
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\bin\Debug\net6.0-windows\xoxoyunu.deps.json
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\bin\Debug\net6.0-windows\xoxoyunu.runtimeconfig.json
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\bin\Debug\net6.0-windows\xoxoyunu.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\bin\Debug\net6.0-windows\xoxoyunu.pdb
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.Form1.resources
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.csproj.GenerateResource.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.AssemblyInfoInputs.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.AssemblyInfo.cs
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\refint\xoxoyunu.dll
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.pdb
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\xoxoyunu.genruntimeconfig.cache
+C:\Users\Mutlucan\Desktop\Dosyalar\Odev\xoxoyunu\xoxoyunu\obj\Debug\net6.0-windows\ref\xoxoyunu.dll
